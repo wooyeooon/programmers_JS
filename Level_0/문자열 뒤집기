@@ -1,0 +1,39 @@
+#**문자열 뒤집기**
+[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)
+
+**문제설명**
+
+> 문자열 my_string이 매개변수로 주어집니다. my_string을 거꾸로 뒤집은 문자열을 return하도록 solution 함수를 완성해주세요.
+
+**입출력 예**
+| my_string | return |
+| --- | --- | --- |
+| "jaron" | "noraj" |
+| "bread" | "daerb" |
+
+---
+
+**나의 풀이**
+
+```javascript
+function solution(my_string) {
+  var answer = my_string.split("").reverse().join("");
+  return answer;
+}
+// split() -> my_string 문자를 지정한 구분자를 이용하여 여러 개의 문자열로 나눕니다.
+// reverse() -> reverse메소드를 활용해 구분한 문자열을 뒤집기
+// join() -> 구분된 문자열을 다시 하나의 문자열로 재배치
+```
+
+**참고풀이**
+
+```javascript
+function solution(my_string) {
+  var answer = [...my_string].reverse().join("");
+  return answer;
+} // 쓰레드 문법 활용
+```
+
+[split 더 알아보기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+[reverse 더 알아보기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+[join 더 알아보기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/join)

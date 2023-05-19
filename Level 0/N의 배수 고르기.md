@@ -1,4 +1,5 @@
-#**N의 배수 고르기**
+# N의 배수 고르기
+
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)
 
 **문제설명**

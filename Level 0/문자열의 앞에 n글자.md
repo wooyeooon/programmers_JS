@@ -1,4 +1,5 @@
-#**문자열의 앞에 n글자**
+# 문자열의 앞에 n글자
+
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181907)
 
 **문제설명**
@@ -13,7 +14,7 @@
 
 ---
 
-**문제풀이**
+**나의 풀이**
 
 ```javascript
 function solution(my_string, n) {

@@ -1,4 +1,5 @@
-#**k의 개수**
+# k의 개수
+
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120887)
 
 **문제설명**
@@ -26,7 +27,7 @@ function solution(i, j, k) {
 }
 ```
 
-**참고풀이**
+**참고 풀이**
 
 ```javascript
 function solution(i, j, k) {

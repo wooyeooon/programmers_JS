@@ -1,4 +1,5 @@
-#**ad 제거하기**
+# ad 제거하기
+
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)
 
 **문제설명**

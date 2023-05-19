@@ -1,4 +1,5 @@
-#**문자열 뒤의 n글자**
+# 문자열 뒤의 n글자
+
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181910)
 
 **문제설명**

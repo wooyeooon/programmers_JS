@@ -1,4 +1,5 @@
-#**x만큼 간격이 있는 n개의 숫자**
+# x만큼 간격이 있는 n개의 숫자
+
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
 
 **문제설명**
@@ -27,7 +28,7 @@ function solution(x, n) {
 }
 ```
 
-**참고풀이**
+**참고 풀이**
 
 ```javascript
 function solution(x, n) {

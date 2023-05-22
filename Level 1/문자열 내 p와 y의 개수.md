@@ -10,7 +10,7 @@
 
 **입출력 예**
 | s | answer |
-| --- | --- | --- |
+| --- | --- |
 | "pPoooyY" | true |
 | "Pyy" | false |
 

@@ -9,7 +9,7 @@
 
 **입출력 예**
 | s | return |
-| --- | --- | --- |
+| --- | --- |
 | "3people unFollowed me" | "\*\*\"3people Unfollowed Me" |
 | "for the last week" | "For The Last Week" |
 
